@@ -1,0 +1,7 @@
+#TodoList {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+#TodoList h1 {
+  text-align: center;
+}
